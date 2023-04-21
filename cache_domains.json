@@ -31,6 +31,12 @@
 			"domain_files": ["epicgames.txt"]
 		},
 		{
+			"name": "e621",
+			"description": "CDN for e621",
+			"mixed_content": true,
+			"domain_files": ["e621.txt"]
+		},
+		{
 			"name": "frontier",
 			"description": "CDN for frontier games",
 			"domain_files": ["frontier.txt"]
